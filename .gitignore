@@ -1,4 +1,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
 .trash/
 .DS_Store
